@@ -17,7 +17,7 @@
 <!-- <a href = ''> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> -->
 <a href = 'https://github.com/oguzhanet'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=codermother.codermother)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=oguzhanet.oguzhanet)
   
 
 
