@@ -16,7 +16,7 @@
 <!-- <a href = 'https://www.twitter.com/oskee3'> <img width = '35px' align= 'center'   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> -->
 <!-- <a href = ''> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> -->
 <a href = 'https://github.com/oguzhanet'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
- 
+ <a href = ''> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/></a> 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=oguzhanet.oguzhanet)
   
 
