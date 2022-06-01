@@ -10,7 +10,7 @@
 
 
 <div size='20px'> 
-<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height = 80px> </h2>
+<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height = 40px> </h2>
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/oğuzhan-cengiz-52116b155/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <!-- <a href = 'https://www.twitter.com/oskee3'> <img width = '35px' align= 'center'   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> -->
