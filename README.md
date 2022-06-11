@@ -15,8 +15,8 @@
 <a href = 'https://www.linkedin.com/in/oğuzhan-cengiz-52116b155/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <!-- <a href = 'https://www.twitter.com/oskee3'> <img width = '35px' align= 'center'   src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> -->
 <!-- <a href = ''> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> -->
-<a href = 'https://github.com/oguzhanet'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mail.svg"/></a> 
-
+[<a> <img width = '35px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png"/></a>][gmail]
+[gmail]: ozancengiz898@gmail.com
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=oguzhanet.oguzhanet)
   
 
